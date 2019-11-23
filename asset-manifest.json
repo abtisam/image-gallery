@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/image-gallery-offline/static/css/main.52232234.chunk.css",
+    "main.js": "/image-gallery-offline/static/js/main.6ff148ee.chunk.js",
+    "main.js.map": "/image-gallery-offline/static/js/main.6ff148ee.chunk.js.map",
+    "runtime-main.js": "/image-gallery-offline/static/js/runtime-main.1277bc71.js",
+    "runtime-main.js.map": "/image-gallery-offline/static/js/runtime-main.1277bc71.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/image-gallery-offline/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.00c4f623.chunk.js": "/image-gallery-offline/static/js/2.00c4f623.chunk.js",
+    "static/js/2.00c4f623.chunk.js.map": "/image-gallery-offline/static/js/2.00c4f623.chunk.js.map",
+    "index.html": "/image-gallery-offline/index.html",
+    "precache-manifest.d6d9da70dbbcfdebee530ac73b480ab9.js": "/image-gallery-offline/precache-manifest.d6d9da70dbbcfdebee530ac73b480ab9.js",
+    "service-worker.js": "/image-gallery-offline/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/image-gallery-offline/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.52232234.chunk.css.map": "/image-gallery-offline/static/css/main.52232234.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1277bc71.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.00c4f623.chunk.js",
+    "static/css/main.52232234.chunk.css",
+    "static/js/main.6ff148ee.chunk.js"
+  ]
+}
